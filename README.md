@@ -16,8 +16,11 @@ Tic-Tac-Toe is a classic two-player game built using HTML, CSS, and JavaScript. 
 - [License](#license)
 
 ## Demo
+
+# Homepage
 ![Homepage](https://github.com/AK016/Tic-Tac-Toe/assets/123861375/52f86b5f-12b0-4893-aaf5-563255eb1110)
 
+# Game
 ![Game](https://github.com/AK016/Tic-Tac-Toe/assets/123861375/f4e30b73-09bd-4298-be42-a10f6d1f1f27)
 
 Include a GIF or screenshot of your game in action to give users a visual preview of what they can expect.
